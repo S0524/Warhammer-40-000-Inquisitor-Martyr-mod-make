@@ -22,4 +22,4 @@ Values=(7;10),(8;12),(10;13),(11;15),(12;17),(13;18),(14;20),(15;22) 这种格�
 
 Cfg\Config\tarotcards.cfg 塔罗牌
 
-最后希望大家善用ai工具,免费的智谱清言,可以集成到VS code的通义千问,或者付费的chatgpt和GitHub Copilo都可以解释代码或者帮你一键生成py程序
+最后希望大家善用ai工具,免费的智谱清言,可以集成到VS code的通义千问,或者付费的chatgpt和GitHub Copilo都可以解释代码或者帮你一键生成py程序。
